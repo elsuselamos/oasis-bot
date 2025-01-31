@@ -1,3 +1,4 @@
+
 # OASIS AI BETA CLI VERSION
 
 ![banner](image-1.png)
@@ -7,7 +8,7 @@ AI inference powered by distributed compute
 
 ![Banner](image.png)
 
-- **Register/Login Accounts**
+[- **Register/Login Accounts**](https://r.distribute.ai/artemisrico423)
 
 - **Auto Create Providers**
 
